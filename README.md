@@ -1,2 +1,2 @@
 # Tenzes-game
-beutiful and challenging game 
+Beautiful and challenging game 
